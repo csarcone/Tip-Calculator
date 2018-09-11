@@ -14,6 +14,8 @@
 		F17039B921474E15006A9975 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F17039B721474E15006A9975 /* LaunchScreen.storyboard */; };
 		F17039C421474E15006A9975 /* Tip_CalcTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F17039C321474E15006A9975 /* Tip_CalcTests.swift */; };
 		F17039CF21474E15006A9975 /* Tip_CalcUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F17039CE21474E15006A9975 /* Tip_CalcUITests.swift */; };
+		F17039DD21474E71006A9975 /* Abstract-Pure-Simple-Blue-Gradient-Color-Background-iphone-6-wallpaper-ilikewallpaper_com.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F17039DC21474E71006A9975 /* Abstract-Pure-Simple-Blue-Gradient-Color-Background-iphone-6-wallpaper-ilikewallpaper_com.jpg */; };
+		F17039DF21474F59006A9975 /* restaurant-wallpapers-28840-4336902.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F17039DE21474F59006A9975 /* restaurant-wallpapers-28840-4336902.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +49,8 @@
 		F17039CA21474E15006A9975 /* Tip.CalcUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tip.CalcUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F17039CE21474E15006A9975 /* Tip_CalcUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tip_CalcUITests.swift; sourceTree = "<group>"; };
 		F17039D021474E15006A9975 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F17039DC21474E71006A9975 /* Abstract-Pure-Simple-Blue-Gradient-Color-Background-iphone-6-wallpaper-ilikewallpaper_com.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "Abstract-Pure-Simple-Blue-Gradient-Color-Background-iphone-6-wallpaper-ilikewallpaper_com.jpg"; path = "../../Abstract-Pure-Simple-Blue-Gradient-Color-Background-iphone-6-wallpaper-ilikewallpaper_com.jpg"; sourceTree = "<group>"; };
+		F17039DE21474F59006A9975 /* restaurant-wallpapers-28840-4336902.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "restaurant-wallpapers-28840-4336902.jpg"; path = "../../restaurant-wallpapers-28840-4336902.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +104,8 @@
 				F17039AE21474E0F006A9975 /* AppDelegate.swift */,
 				F17039B021474E0F006A9975 /* ViewController.swift */,
 				F17039B221474E0F006A9975 /* Main.storyboard */,
+				F17039DE21474F59006A9975 /* restaurant-wallpapers-28840-4336902.jpg */,
+				F17039DC21474E71006A9975 /* Abstract-Pure-Simple-Blue-Gradient-Color-Background-iphone-6-wallpaper-ilikewallpaper_com.jpg */,
 				F17039B521474E15006A9975 /* Assets.xcassets */,
 				F17039B721474E15006A9975 /* LaunchScreen.storyboard */,
 				F17039BA21474E15006A9975 /* Info.plist */,
@@ -231,6 +237,8 @@
 			files = (
 				F17039B921474E15006A9975 /* LaunchScreen.storyboard in Resources */,
 				F17039B621474E15006A9975 /* Assets.xcassets in Resources */,
+				F17039DD21474E71006A9975 /* Abstract-Pure-Simple-Blue-Gradient-Color-Background-iphone-6-wallpaper-ilikewallpaper_com.jpg in Resources */,
+				F17039DF21474F59006A9975 /* restaurant-wallpapers-28840-4336902.jpg in Resources */,
 				F17039B421474E0F006A9975 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
