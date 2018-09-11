@@ -35,7 +35,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Here's a preview of the tip calculator:
 
-https://imgflip.com/gif/2hnyna?herp=1536636262188
+![tip_calc](https://user-images.githubusercontent.com/24507999/45336452-a9c46900-b551-11e8-8fe6-4811e3437762.gif)
 
 ## Notes
 
